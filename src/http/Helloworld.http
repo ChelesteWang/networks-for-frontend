@@ -1,0 +1,9 @@
+# GET http://localhost:3000/
+
+# POST http://localhost:3000/
+
+# PUT http://localhost:3000/
+
+# DELETE http://localhost:3000/
+
+OPTIONS http://localhost:3000/
